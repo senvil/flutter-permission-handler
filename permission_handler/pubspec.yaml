@@ -25,7 +25,7 @@ dependencies:
   permission_handler_android:
     git:
       url: https://github.com/senvil/flutter-permission-handler
-      ref: master
+      ref: fix-reply-already-submitted
       path: permission_handler_android
   permission_handler_apple: ^9.0.7
   permission_handler_windows: ^0.1.2
